@@ -1,4 +1,4 @@
-# วิธีติดตั้ง Termux Linux
+# วิธีติดตั้ง Termux, Linux, MacOS
 ```sh
 git clone https://github.com/bunnyhop-dev/NGL_NUKER
 cd NGL_NUKER
