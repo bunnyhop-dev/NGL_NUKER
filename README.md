@@ -12,3 +12,4 @@ python nglspammer.py
 ```python
 python 3.x.x
 ```
+# เอาไปขายขอให้พ่อแม่มันตายโหง
